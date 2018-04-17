@@ -20,6 +20,7 @@ public class Main {
         System.out.println("Test ---");
         ClassOne co = new ClassOne();
         ClassOne co2 = new ClassOne();
+        ClassOne co3 = new ClassOne();
     }
     
 }
